@@ -1,0 +1,40 @@
+text,label
+"I am out of the office until Monday 3rd with limited access to email. I will respond when I return.",out_of_office
+"Thank you for your email. I am currently on vacation and will be back on the 14th.",out_of_office
+"Automatic reply: I'm away from my desk this week.",out_of_office
+"This is an auto-reply. I am on annual leave until November.",out_of_office
+"I'm out of town for a conference and will reply next week.",out_of_office
+"Maria no longer works at Acme Corp. Please contact info@acme.example for assistance.",left_company
+"Hi, I have left the company as of last Friday. This mailbox is no longer monitored.",left_company
+"John is no longer with our organization.",left_company
+"Please remove me from your list.",unsubscribe
+"Unsubscribe",unsubscribe
+"Stop emailing me.",unsubscribe
+"Do not contact me again.",unsubscribe
+"Take me off this list immediately.",unsubscribe
+"I'm not the right person for this. You should reach out to our head of operations, Dana.",wrong_person
+"Wrong person, I handle HR not sales.",wrong_person
+"This isn't my department. Try contacting the procurement team.",wrong_person
+"I've forwarded this to my colleague who runs this area.",wrong_person
+"Not interested, thanks.",not_interested
+"No thank you.",not_interested
+"We already work with a vendor for this so we're all set.",not_interested
+"This is not a priority for us right now.",not_interested
+"We're good, pass.",not_interested
+"We don't need this at the moment.",not_interested
+"Yes, this sounds interesting. Can we set up a call next week?",positive
+"I'm interested. Send me some times that work.",positive
+"Sounds good, let's talk Thursday afternoon.",positive
+"Happy to chat. Does Tuesday at 2pm work?",positive
+"Yes please send over more details and let's schedule something.",positive
+"Open to a quick call. Here is my calendar link.",positive
+"Sure, let's connect this week.",positive
+"How much does this cost?",info_request
+"What is your pricing?",info_request
+"Can you tell me more about how this works?",info_request
+"Do you have any case studies?",info_request
+"Who are you and how did you get my email?",info_request
+"What exactly do you do?",info_request
+"Thanks.",other
+"Received.",other
+"Let me check with my team and get back to you.",other

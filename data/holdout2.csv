@@ -1,0 +1,40 @@
+text,label
+"Thank you for your message. I'm on parental leave and won't be checking email. Back in the new year.",out_of_office
+"Hello, I am currently at an offsite and will have patchy connectivity until Thursday.",out_of_office
+"I'm away on holiday until the 9th, please expect a delay in my response.",out_of_office
+"Auto response: our office is closed for the long weekend and reopens Tuesday.",out_of_office
+"Hey! Heads down on a launch this week and not reading email. Will catch up after the 15th.",out_of_office
+"I have moved on from my position at Hooli and this address is inactive.",left_company
+"Mark isn't with the firm any longer. Please write to contact@umbrella.example.",left_company
+"Unfortunately this person is no longer an employee here.",left_company
+"Kindly delete my address from your database.",unsubscribe
+"I did not ask for this email. Unsubscribe me now.",unsubscribe
+"Cease all communication with me.",unsubscribe
+"Not interested and please never email me again.",unsubscribe
+"Take my email off your mailing list.",unsubscribe
+"I don't deal with vendor decisions. Talk to Greg in procurement.",wrong_person
+"This should go to our IT director.",wrong_person
+"I'm a recruiter, not who you want. Try the product team.",wrong_person
+"You have the wrong company, we don't sell anything like that.",wrong_person
+"No interest at this time.",not_interested
+"We have a team for this already.",not_interested
+"Not looking to change anything. Thanks anyway.",not_interested
+"This doesn't apply to our business.",not_interested
+"We tried something similar last year and it didn't work out, so no.",not_interested
+"Thanks for the note, but we're locked into a multi-year deal elsewhere.",not_interested
+"I'm intrigued. When can we speak?",positive
+"Good timing, send me your availability.",positive
+"Yes, let's do a call. I'm free after 3pm most days.",positive
+"This is something we've discussed internally. Please book a time on my calendar.",positive
+"Sounds relevant. Let's set up 20 minutes.",positive
+"Absolutely. Call me on my mobile any afternoon.",positive
+"What are your rates?",info_request
+"Do you have references from similar companies?",info_request
+"Is this a one-time project or a monthly arrangement?",info_request
+"Can you explain how you source your lists?",info_request
+"What would the first 30 days look like?",info_request
+"Can you send a short deck?",info_request
+"Noted.",other
+"I'll pass this along to my boss and see.",other
+"Not now, maybe later in the year.",other
+"Hmm",other

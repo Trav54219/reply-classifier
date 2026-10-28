@@ -1,0 +1,40 @@
+text,label
+"Hi, I'm travelling for work until the 20th and checking email intermittently. For urgent matters contact my assistant.",out_of_office
+"Thanks for reaching out! I'm OOO through Friday and will get back to you when I'm back at my desk.",out_of_office
+"I will be out from Oct 28 to Nov 4 with no access to email.",out_of_office
+"Dear sender, I am attending a training course and will reply after the 12th.",out_of_office
+"Your message has been received. I am off until further notice.",out_of_office
+"Sarah moved on to a new role and is not at this company anymore. Reach the team at hello@globex.example.",left_company
+"I no longer work here, sorry. Best of luck.",left_company
+"This employee has left Initech. Please direct inquiries to the main line.",left_company
+"Please stop sending me these messages.",unsubscribe
+"Remove me from this please, I never signed up.",unsubscribe
+"Add me to your do not email list.",unsubscribe
+"I'd like to opt out of any further emails.",unsubscribe
+"Please don't email me again.",unsubscribe
+"Wrong guy. I'm in finance, nothing to do with marketing.",wrong_person
+"You want our CMO for this, her name is Pat Rivera.",wrong_person
+"I think this one is for the operations team, not me.",wrong_person
+"Not really my area, but I'll pass your note to the right person.",wrong_person
+"Appreciate it but we're not looking at anything like this right now.",not_interested
+"We handle this in-house, so no.",not_interested
+"Thanks but we just signed a contract with another provider.",not_interested
+"Not for us.",not_interested
+"Budget is frozen for the year, so this isn't something we can consider.",not_interested
+"We are all set on this front.",not_interested
+"Interesting. I'd be up for a 15 minute call. What does your week look like?",positive
+"This is timely, we've been looking at exactly this. Let's talk.",positive
+"Go ahead and send a calendar invite for Wednesday.",positive
+"Yes, I'm the right person. Call me at 555-0100 tomorrow morning.",positive
+"Love this, please send over a couple of times.",positive
+"I'd like to learn more on a call, are you free Friday?",positive
+"Could you share what this costs for a company our size?",info_request
+"Do you work with agencies or only brands?",info_request
+"Can you send a sample of the work first?",info_request
+"What's included in the starter plan?",info_request
+"How long does onboarding usually take?",info_request
+"Which industries have you done this for?",info_request
+"Got it.",other
+"Forwarding to legal for review.",other
+"Maybe next quarter, circle back in January.",other
+"Ok",other
